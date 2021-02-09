@@ -91,11 +91,13 @@ header {
 
 .header-left {
   float: left;
+  color:#ffffff;
 }
 
 .header-right {
   float: right;
   margin-right: -25px;
+  color:#ffffff;
 }
 
 .header-right a {
