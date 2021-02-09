@@ -87,6 +87,8 @@ header {
 .logo {
   width: 124px;
   margin-top: 20px;
+  <!--追加した-->
+  float:left;
 }
 
 .header-left {
