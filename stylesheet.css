@@ -97,6 +97,7 @@ header {
 .header-right {
   float: right;
   color:#ffffff;
+  padding:20px;
 }
 
 .header-right a {
